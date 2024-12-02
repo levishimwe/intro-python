@@ -1,0 +1,37 @@
+.body{
+    margin-top: auto;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+
+.nav-list li {
+    margin-right: 10px;
+}
+.art_lis h1{
+    color: aqua;
+    font-size: xx-large;
+
+}
+.art_lis p{
+    color: darkgreen;
+    font-size: x-large;
+}
+.art_lis h2{
+    color: aqua;
+    font-size: xx-large;
+}
